@@ -1,5 +1,5 @@
 
-build\ping-logger/
+build/
 dist/
 *.spec
 
