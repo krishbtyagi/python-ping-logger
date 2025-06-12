@@ -1,0 +1,12 @@
+
+build\ping-logger/
+dist/
+*.spec
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+*.log
+*.xlsx
