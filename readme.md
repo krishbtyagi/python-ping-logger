@@ -1,4 +1,4 @@
-# ping logger tool
+# Ping Logger Tool
 
 ## features
 - pings multiple targets
