@@ -11,7 +11,7 @@
 3. run the script : python ping-logger.py
 
 ## convert to .exe
-you can convert this script to a standalone '.exe' using : pyinstaller --onefile ping_logger.py
+you can convert this script to a standalone '.exe' using : pyinstaller --onefile ping-logger.py
 
 
 ## output
